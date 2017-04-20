@@ -2,6 +2,7 @@
 import unittest
 from sum import add_two_numbers
 
+
 class TestsForAddFunction(unittest.TestCase):
 
     def test_zeros(self):
